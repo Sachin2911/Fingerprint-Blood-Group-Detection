@@ -1,0 +1,11 @@
+Datasets
+- Kaggle 6000 fingerprints, male and female classifications, with real and altered images. Link: https://www.kaggle.com/datasets/ruizgara/socofing
+
+- NIST 8-Bit Gray Scale Images of Fingerprint Image Groups (FIGS), 2000 fingerprints, with arch classification. Link:
+https://academictorrents.com/details/d7e67e86f0f936773f217dbbb9c149c4d98748c6
+
+
+Research Papers
+
+Article about fingerprint features and blood type:
+https://www.emerald.com/insight/content/doi/10.1108/AGJSR-10-2022-0223/full/html#:~:text=The%20whorl%20pattern%20was%20the,subjects%20(p%20%3C%200.001).

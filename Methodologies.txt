@@ -1,0 +1,7 @@
+We have a a dataset of fingerprints with classifications like arches, loops and whorls. We also have another dataset of fingerprints without classfications.
+Aingerprint has four basic categories:
+ - loop
+ - whorl
+ - arch
+ - composites
+According to emerald article we can use presence of whorls to infer blood group.
